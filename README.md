@@ -104,7 +104,7 @@ Before you begin, ensure you have the following installed:
 
    Then edit `.env.local` and add your OpenAI API key:
    ```env
-   OPENAI_API_KEY=your_openai_api_key_here
+   OPENAI_API_KEY=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
    ```
 
 4. **Run the development server**
@@ -205,7 +205,7 @@ Contributions are welcome! Here's how you can help:
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/yourusername/mindmate-ai.git
+   git clone https://github.com/shanawarzaman/mindmate-ai.git
    cd mindmate-ai
    ```
 
@@ -256,12 +256,14 @@ Contributions are welcome! Here's how you can help:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License  - see the [LICENSE](LICENSE) file for details.
 
 ```
+
+
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2025 Shanawar Zaman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -284,11 +286,11 @@ SOFTWARE.
 
 ## 👨‍💻 Creator
 
-**[Your Name]**
+**[Shanawar Zaman]**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@shanawarzaman](https://github.com/shanawarzaman)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- Email:shanawar.zaman.123@gmail.com
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ## 🙏 Acknowledgments
@@ -323,24 +325,24 @@ SOFTWARE.
 
 If you have any questions or need help:
 
-- **Issues**: [Create an issue](https://github.com/yourusername/mindmate-ai/issues)
-- **Discussions**: [Join the discussion](https://github.com/yourusername/mindmate-ai/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [Create an issue](https://github.com/shanawarzaman/mindmate-ai/issues)
+- **Discussions**: [Join the discussion](https://github.com/shanawarzaman/mindmate-ai/discussions)
+- **Email**:shanawar.zaman.123@gmail.com
 
 ## ⭐ Star History
 
 If you find this project helpful, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/mindmate-ai&type=Date)](https://star-history.com/#yourusername/mindmate-ai&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=shanawarzaman/mindmate-ai&type=Date)](https://star-history.com/#shanawarzaman/mindmate-ai&Date)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ and ☕ by [Your Name]**
+**Made with ❤️ and ☕ by Shanawar Zaman **
 
 If you found this project helpful, please give it a ⭐!
 
-[Report Bug](https://github.com/yourusername/mindmate-ai/issues) · [Request Feature](https://github.com/yourusername/mindmate-ai/issues) · [Live Demo](https://your-deployment-url.vercel.app)
+[Report Bug](https://github.com/shanawarzaman/mindmate-ai/issues) · [Request Feature](https://github.com/shanawarzaman/mindmate-ai/issues) · [Live Demo](https://your-deployment-url.vercel.app)
 
 </div>
