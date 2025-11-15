@@ -104,7 +104,7 @@ Before you begin, ensure you have the following installed:
 
    Then edit `.env.local` and add your OpenAI API key:
    ```env
-   OPENAI_API_KEY=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
+   OPENAI_API_KEY=YOUR_OPENAI_API_KEY_HERE
    ```
 
 4. **Run the development server**
