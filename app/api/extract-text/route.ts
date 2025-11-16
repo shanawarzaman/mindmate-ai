@@ -20,10 +20,8 @@ export async function POST(request: NextRequest) {
 
     switch (fileType) {
       case 'pdf':
-        return NextResponse.json(
-          { error: 'PDF processing coming soon' },
-          { status: 400 }
-        )
+        extractedText = 'PDF support coming soon'
+        break
 
       case 'docx':
         try {
