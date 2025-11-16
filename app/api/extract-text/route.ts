@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import pdfParse from 'pdf-parse'
+const pdf = require('pdf-parse')
 import mammoth from 'mammoth'
 
 export async function POST(request: NextRequest) {
@@ -22,7 +22,7 @@ export async function POST(request: NextRequest) {
     switch (fileType) {
       case 'pdf':
         try {
-          const pdfData = await pdfParse(buffer)
+          const pdfData = await pdf(buffer)
           extractedText = pdfData.text
         } catch (error) {
           console.error('PDF parsing error:', error)
