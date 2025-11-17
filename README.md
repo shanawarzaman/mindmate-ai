@@ -165,12 +165,11 @@ npm start
 
 ## 🌐 Live Demo
 
-<!-- Add your deployment link here after deploying -->
-**Live Demo:** [Coming Soon](https://your-deployment-url.vercel.app)
+**Live Demo:** [Opened](https://studymate-ai-pro.vercel.app/)
 
 ## 📸 Screenshots
+<img width="1440" height="900" alt="Screenshot 2025-11-17 at 9 42 57 PM" src="https://github.com/user-attachments/assets/a68b22f9-59bc-40e8-810a-b1f56bda909c" />
 
-<!-- Add screenshots here -->
 ### Main Interface
 ![Main Interface](./screenshots/main-interface.png)
 *Caption: Upload files or paste text to get started*
@@ -180,15 +179,17 @@ npm start
 *Caption: AI-generated summaries with key points and statistics*
 
 ### Flashcards
-![Flashcards](./screenshots/flashcards.png)
+<img width="1440" height="900" alt="Screenshot 2025-11-17 at 9 43 23 PM" src="https://github.com/user-attachments/assets/231b16f1-e580-4a06-b12d-49ec33f4f5f4" />
+
 *Caption: Interactive flashcards with 3D flip animations*
 
 ### Quiz Mode
-![Quiz Mode](./screenshots/quiz-mode.png)
+<img width="1440" height="900" alt="Screenshot 2025-11-17 at 9 44 17 PM" src="https://github.com/user-attachments/assets/2acb68b9-a252-4adc-98f2-93092b7e4da6" />
+
 *Caption: Timed multiple-choice questions with instant feedback*
 
 ### Research Papers
-![Research Papers](./screenshots/research-papers.png)
+Coming soon 
 *Caption: Search and explore academic papers from ArXiv*
 
 > **Note:** Add screenshots to a `screenshots` folder in your repository
@@ -256,10 +257,9 @@ Contributions are welcome! Here's how you can help:
 
 ## 📝 License
 
-This project is licensed under the MIT License  - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License  - see the (LICENSE) file for details.
 
 ```
-
 
 MIT License
 
@@ -343,6 +343,6 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 If you found this project helpful, please give it a ⭐!
 
-[Report Bug](https://github.com/shanawarzaman/mindmate-ai/issues) · [Request Feature](https://github.com/shanawarzaman/mindmate-ai/issues) · [Live Demo](https://your-deployment-url.vercel.app)
+[Report Bug](https://github.com/shanawarzaman/mindmate-ai/issues) · [Request Feature](https://github.com/shanawarzaman/mindmate-ai/issues) · LIVE DEMO: https://studymate-ai-pro.vercel.app/
 
 </div>
