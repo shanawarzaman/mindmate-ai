@@ -289,7 +289,7 @@ SOFTWARE.
 **[Shanawar Zaman]**
 
 - GitHub: [@shanawarzaman](https://github.com/shanawarzaman)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shanawar-z-995281379)
 - Email:shanawar.zaman.123@gmail.com
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
